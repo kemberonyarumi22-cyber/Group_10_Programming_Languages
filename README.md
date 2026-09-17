@@ -1,5 +1,11 @@
 # Checkout-Stock
 
+## Group Members
+
+* **Aluvi Ian** - C026-01-1064/2021
+* **Kembero Collins Nyarumi** - C026-01-0964/2022
+* **Karanja Cyrus Njonge** - C026-01-2610/2025
+
 A Lua implementation of **Question 10: Supermarket Checkout and Stock Consistency** using coroutines.
 
 ## Overview
