@@ -1,0 +1,38 @@
+============================================================
+PROGRAMMING LANGUAGES LAB - NAMES, BINDINGS AND SCOPES
+GROUP 10 - Course Registration Policy Engine and Scope Resolver
+============================================================
+
+GROUP MEMBERS:
+1. Karanja Cyrus - C026-01-2610/2025
+2. Kembero Collins Nyarumi - C026-01-0964/2022
+3. Aluvi Ian - C026-01-1064/2021
+
+COURSE: Programming Languages Lab
+DATE: August 12, 2026
+
+ASSIGNMENT REQUIREMENTS COVERED:
+
+============================================================
+FILES INCLUDED:
+============================================================
+1. 1_named_constants.py        - Named constants demonstration
+2. 2_registration_validators.py - Registration validator + scope vs lifetime
+3. 3_scope_resolver.py         - Static vs dynamic scoping core
+4. 4_scope_scenario.py         - Two call scenarios with traces
+5. 5_env_table.py              - Referencing environment table
+6. 6_main_execution.py         - Complete integrated execution
+7. shared_data.py              - Shared data (constants, students, courses)
+
+============================================================
+HOW TO RUN:
+============================================================
+Option 1 - Complete Run:
+  python 6_main_execution.py
+
+Option 2 - Individual Files:
+  python 1_named_constants.py
+  python 2_registration_validators.py
+  python 3_scope_resolver.py
+  python 4_scope_scenario.py
+  python 5_env_table.py
