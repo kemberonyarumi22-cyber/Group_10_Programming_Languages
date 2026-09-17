@@ -28,13 +28,13 @@ You can download Lua from the [official website](https://www.lua.org/download.ht
 1. **Clone the repository:**
 
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/kemberonyarumi22-cyber/Checkout-Stock.git
    ```
 
 2. **Navigate to the project directory:**
 
    ```bash
-   cd <repository-directory>
+   cd Checkout-Stock
    ```
 
 ## Running the Program
